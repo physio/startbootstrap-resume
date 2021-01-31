@@ -3,6 +3,7 @@
 body {
     padding-top: $navbar-base-height;
     color: $gray-600;
+    background-color: $body-bg;
 }
 @include media-breakpoint-up(lg) {
     body {

@@ -4,7 +4,7 @@ $gray-800: #343a40;
 
 // Override Bootstrap color system
 
-$orange: #bd5d38;
+$orange: #00ff66;
 
 // Override Bootstrap default state colors
 
@@ -13,3 +13,7 @@ $primary: $orange;
 // Override Bootstrap yiq lightness value
 
 $yiq-contrasted-threshold: 205;
+
+// Ovveride Bootstrap background
+
+$body-bg: #000;

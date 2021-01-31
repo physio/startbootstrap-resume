@@ -1,0 +1,1 @@
+Mi sono occupato di Integrazioni fra i sistemi ERP (Microsoft NAV e JFlex) con Office 365 e altri applicativi. Ho sviluppato il software che gestisce la comunicazione fra le macchine utensili presenti nelle officine e l'ERP. Ho supportato il CIO nalla fase di analisi dei processi aziendali. Sono stato la persona di riferimento per la sicurezza informatica dei sistemi.
